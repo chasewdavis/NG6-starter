@@ -46,7 +46,9 @@ module.exports = function (config) {
     reporters: ['mocha'],
 
     // web server port
-    port: 9876,
+
+    // port: 9876,
+    port: 8095,
 
     // enable colors in the output
     colors: true,
